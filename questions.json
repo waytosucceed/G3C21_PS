@@ -1,0 +1,233 @@
+{
+  "heading": "Adverb Quiz",
+  "topics": [
+    {
+      "heading": "Adverb",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The bird sang ______.",
+          "options": [
+            "sweetly",
+            "loudly",
+            "angrily"
+          ],
+          "answer": 0,
+          "explanation": "\"Sweetly\" is the adverb describing how the bird sang. Birds usually sing sweetly, not angrily."
+        },
+        {
+          "questionNo": 2,
+          "question": "He wrote his name ______.",
+          "options": [
+            "messily",
+            "quickly",
+            "neatly"
+          ],
+          "answer": 2,
+          "explanation": "\"Neatly\" is the adverb describing how he wrote his name."
+        },
+        {
+          "questionNo": 3,
+          "question": "She walked ______ to school.",
+          "options": [
+            "slowly",
+            "loudly",
+            "angrily"
+          ],
+          "answer": 0,
+          "explanation": "\"Slowly\" is the adverb describing how she walked to school."
+        },
+        {
+          "questionNo": 4,
+          "question": "The baby slept ______.",
+          "options": [
+            "loudly",
+            "soundly",
+            "sadly"
+          ],
+          "answer": 1,
+          "explanation": "\"Soundly\" is the adverb describing how the baby slept."
+        },
+        {
+          "questionNo": 5,
+          "question": "The teacher spoke ______ to the class.",
+          "options": [
+            "kindly",
+            "neatly",
+            "beautifully"
+          ],
+          "answer": 0,
+          "explanation": "\"Kindly\" is the adverb describing how the teacher spoke to the class."
+        },
+        {
+          "questionNo": 6,
+          "question": "The cat purred ______.",
+          "options": [
+            "happily",
+            "loudly",
+            "slowly"
+          ],
+          "answer": 0,
+          "explanation": "\"Happily\" is the adverb describing how the cat purred."
+        },
+        {
+          "questionNo": 7,
+          "question": "He waited ______ for his turn.",
+          "options": [
+            "angrily",
+            "loudly",
+            "patiently"
+          ],
+          "answer": 2,
+          "explanation": "\"Patiently\" is the adverb describing how he waited for his turn."
+        },
+        {
+          "questionNo": 8,
+          "question": "The lion roared ______.",
+          "options": [
+            "fiercely",
+            "kindly",
+            "quietly"
+          ],
+          "answer": 0,
+          "explanation": "\"Fiercely\" is the adverb describing how the lion roared."
+        },
+        {
+          "questionNo": 9,
+          "question": "The rabbit hopped ______ across the field.",
+          "options": [
+            "slowly",
+            "quickly",
+            "loudly"
+          ],
+          "answer": 1,
+          "explanation": "\"Quickly\" is the adverb describing how the rabbit hopped."
+        },
+        {
+          "questionNo": 10,
+          "question": "She hugged her friend ______.",
+          "options": [
+            "loudly",
+            "quickly",
+            "tightly"
+          ],
+          "answer": 2,
+          "explanation": "\"Tightly\" is the adverb describing how she hugged her friend."
+        },
+        {
+          "questionNo": 11,
+          "question": "He answered the question ______.",
+          "options": [
+            "wisely",
+            "gracefully",
+            "sadly"
+          ],
+          "answer": 0,
+          "explanation": "\"Wisely\" is the adverb describing how he answered the question."
+        },
+        {
+          "questionNo": 12,
+          "question": "An adverb is a word that only describes a verb, an adjective and not another adverb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "An adverb is a word that describes a verb, an adjective, or even another adverb."
+        },
+        {
+          "questionNo": 13,
+          "question": "“Sudden”, “Slowly” and “Loudly” are all adverbs.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": 1,
+          "explanation": "\"Sudden\" is an adjective, while \"Slowly\" and \"Loudly\" are adverbs."
+        },
+        {
+          "questionNo": 14,
+          "question": "She dressed ______ for the party.",
+          "options": [
+            "elegantly",
+            "loudly",
+            "quickly"
+          ],
+          "answer": 0,
+          "explanation": "\"Elegantly\" is the adverb describing how she dressed."
+        },
+        {
+          "questionNo": 15,
+          "question": "He played the piano ______.",
+          "options": [
+            "loudly",
+            "gracefully",
+            "quickly"
+          ],
+          "answer": 1,
+          "explanation": "\"Gracefully\" is the adverb describing how he played the piano."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following sentences uses an adverb correctly?",
+          "options": [
+            "The pilot landed the plane smooth on the runway.",
+            "The speaker presented the topic clear to the audience.",
+            "The chef seasoned the dish perfect.",
+            "The bird soared high in the sky."
+          ],
+          "answer": 3,
+          "explanation": "\"High\" is an adverb that has the same form as its adjective counterpart, and it is used correctly in this sentence to describe how the bird soared."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following sentences uses an adverb correctly?",
+          "options": [
+            "The dancer moved graceful across the stage.",
+            "The team played the game aggressively.",
+            "The author wrote the book creative.",
+            "The sun shone bright in the sky."
+          ],
+          "answer": 1,
+          "explanation": "\"Aggressively\" is the correct adverb form of the adjective \"aggressive,\" and it is used correctly in this sentence to describe how the team played the game."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following sentences uses an adverb correctly?",
+          "options": [
+            "The baby slept peaceful in the crib.",
+            "The politician spoke confidently at the rally.",
+            "The artist painted the picture vivid.",
+            "The wind blew strong during the storm."
+          ],
+          "answer": 1,
+          "explanation": "\"Confidently\" is the correct adverb form of the adjective \"confident,\" and it is used correctly in this sentence to describe how the politician spoke."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of the following sentences uses an adverb correctly?",
+          "options": [
+            "The cat crept silently through the grass.",
+            "The child coloured the picture neat.",
+            "The musician played the violin beautiful.",
+            "The leaves fell gentle from the trees."
+          ],
+          "answer": 0,
+          "explanation": "\"Silently\" is the correct adverb form of the adjective \"silent,\" and it is used correctly in this sentence to describe how the cat crept."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of the following sentences uses an adverb correctly?",
+          "options": [
+            "The athlete ran swiftly during the race.",
+            "The teacher explained the concept clear to the students.",
+            "The dog barked loud at the mailman.",
+            "The flowers bloomed beautiful in the spring."
+          ],
+          "answer": 0,
+          "explanation": "\"Swiftly\" is the correct adverb form of the adjective \"swift,\" and it is used correctly in this sentence to describe how the athlete ran."
+        }
+      ]
+    }
+  ]
+}
